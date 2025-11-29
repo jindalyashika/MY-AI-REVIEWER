@@ -46,7 +46,7 @@ function Interview({ params }) {
               <span>Information</span>
             </h2>
             <h2 className="mt-3 text-yellow-500">
-              {process.env.NEXT_PUBLIC_INFORMATION}
+              {process.env.NEXT_PUBLIC_QUESTION_NOTE}
             </h2>
           </div>
         </div>
